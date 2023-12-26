@@ -15,6 +15,7 @@
 |  1 | R 118 0.125W (0805)                       | R1      | P118CCT-ND                    |
 |  2 | R 1K 0.125W (0805)                        | R2-R3   | RMCF0805FT1K00CT-ND           |
 |  1 | R 5.1K 0.125W (0805)                      | R4      | RMCF0805FT5K10CT-ND           |
+|  1 | R 10K 0.125W (0805)                       | R5      | RMCF0805FT10K0CT-ND           |
 |  1 | U FT232R (SSOP-28)                        | U1      | 768-FT232RNL-TUBE-ND          |
 |  1 | U PIC18F25K80 (SSOP-28)                   | U2      | PIC18F25K80-I/SS-ND           |
 |  1 | U MCP2561 (SOIC-8)                        | U3      | MCP2561-E/SN-ND               |
