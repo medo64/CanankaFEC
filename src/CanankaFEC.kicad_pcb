@@ -120,7 +120,7 @@
         (effects (font (size 0.8 0.6) (thickness 0.15) italic))
       (tstamp 5ca44815-28db-412f-8787-743688333585)
     )
-    (fp_text value "PIC18F25K80" (at 0 0 90) (layer "F.SilkS")
+    (fp_text value "PIC18F25K80" (at -1.2 0 90) (layer "F.SilkS")
         (effects (font (size 0.8 0.6) (thickness 0.15)))
       (tstamp f6484074-ee81-417e-a3a3-fc434b878d27)
     )
