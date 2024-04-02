@@ -5,12 +5,12 @@
 |  1 | C 10nF X7R 16V (0805)                     | C1      | 399-17617-1-ND                |
 |  5 | C 100nF X7R 16V (0805)                    | C2-C6   | 478-5311-1-ND                 |
 |  1 | C 4.7uF X5R 16V (0805)                    | C7      | 1276-1244-1-ND                |
-|  1 | C 10uF X5R 16V (0805)                     | C5      | 1276-1096-1-ND                |
+|  1 | C 10uF X5R 16V (0805)                     | C8      | 1276-1096-1-ND                |
 |  1 | D TVS 150W Zenner CAN (SOT23-3)           | D1      | 497-13262-1-ND  568-4032-1-ND |
 |  2 | DS LED (0805)                             | DS1-DS2 | 475-1415-1-ND                 |
-|  1 | J JST XH Vertical (4w)                    | J1      | 455-B4B-XH-A-ND               |
+|  1 | J USB C, plug, straddle 0.8mm             | J1      | WM12855-ND                    |
+|  1 | J JST XH Vertical (4w)                    | J2      | 455-B4B-XH-A-ND               |
 |  1 | L Ferrite 600R@100Mhz                     | L1      | 240-2390-1-ND                 |
-|  1 | P USB C, plug, straddle 0.8mm             | P1      | WM12855-ND                    |
 |  3 | Q P-MOSFET 50V 120mA BSS84 (SOT23-3)      | Q1-Q3   | BSS84CT-ND                    |
 |  1 | R 118 0.125W (0805)                       | R1      | P118CCT-ND                    |
 |  2 | R 1K 0.125W (0805)                        | R2-R3   | RMCF0805FT1K00CT-ND           |
