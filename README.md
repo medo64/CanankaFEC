@@ -3,10 +3,7 @@
 
 Cananka allows for the computer control of a CAN bus. The control of device is
 possible via serial port (SLCAN compatible, Windows/Linux) or via SocketCAN
-network driver (Linux). More information about the SLCAN protocol is available
-in a [separate document](https://github.com/medo64/Cananka/blob/main/PROTOCOL.md).
-
-For firmware please refer to [Cananka](https://github.com/medo64/Cananka/).
+network driver (Linux).
 
 
 ## CAN Bus Pinout
@@ -33,6 +30,19 @@ Left LED will blink on UART communication with computer (both sending toward and
 receiving data from computer).
 
 Right LED will blink on CAN bus activity.
+
+
+## Other repositories
+
+The following hardware version are also available:
+* [Full](https://github.com/medo64/Cananka) (isolated and in the case)
+* [Framework Expansion Card](https://github.com/medo64/CanankaFEC) (non-isolated, in framework expansion card format)
+* [HAT](https://github.com/medo64/CanankaHAT) (intended for Raspberry Pi)
+
+The following additional repositories might be of interest:
+* [Firmware](https://github.com/medo64/Cananka.Firmware)
+* [Protocol](https://github.com/medo64/Cananka.Firmware/blob/main/PROTOCOL.md)
+* [Test software](https://github.com/medo64/Cananka.Software)
 
 
 ---
