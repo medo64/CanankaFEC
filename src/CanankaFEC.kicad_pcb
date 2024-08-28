@@ -4502,7 +4502,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "BSS84"
 			(at 0 -2.5 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -5291,7 +5291,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "BSS84"
 			(at 0 -2.5 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -6244,7 +6244,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "BSS84"
 			(at 0 -2.5 0)
 			(layer "B.SilkS")
 			(hide yes)
