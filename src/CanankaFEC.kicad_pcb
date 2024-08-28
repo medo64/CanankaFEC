@@ -3527,7 +3527,7 @@
 		(at 32 34.5 -90)
 		(descr "Microchip MCP2561")
 		(tags "SOIC127P600X175-8AN")
-		(property "Reference" "U?"
+		(property "Reference" "U3"
 			(at -0.1 0 0)
 			(layer "B.SilkS")
 			(uuid "7264111e-126a-44ca-8531-7028ee1c4448")
