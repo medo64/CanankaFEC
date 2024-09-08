@@ -14,8 +14,7 @@
 |  3 | Q P-MOSFET 50V 120mA BSS84 (SOT23-3)      | Q1-Q3   | BSS84CT-ND                    |
 |  2 | R 59 1% 0.25W (0805)                      | R1-R2   | 2019-RK73H2ATTD59R0FCT-ND     |
 |  2 | R 1K 0.125W (0805)                        | R3-R4   | RMCF0805FT1K00CT-ND           |
-|  1 | R 5.1K 0.125W (0805)                      | R5      | RMCF0805FT5K10CT-ND           |
-|  1 | R 10K 0.125W (0805)                       | R6      | RMCF0805FT10K0CT-ND           |
+|  2 | R 5.1K 0.125W (0805)                      | R5-R6   | RMCF0805FT5K10CT-ND           |
 |  1 | U FT232R (SSOP-28)                        | U1      | 768-FT232RNL-TUBE-ND          |
 |  1 | U PIC18F25K80 (SSOP-28)                   | U2      | PIC18F25K80-I/SS-ND           |
 |  1 | U MCP2561 (SOIC-8)                        | U3      | MCP2561-E/SN-ND               |
