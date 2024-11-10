@@ -3992,7 +3992,7 @@
 		(uuid "4e225a53-cd3c-4f65-a508-6dd8c84e8ae0")
 		(at 32 40.4 180)
 		(property "Reference" "D1"
-			(at 0 2.2 0)
+			(at 1.25 0.95 0)
 			(layer "B.SilkS")
 			(uuid "7c3ad30a-7146-484a-b551-74f0e139f7d9")
 			(effects
